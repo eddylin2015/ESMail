@@ -1,0 +1,17 @@
+D:\code\mailsrvTcp\mailpop3\bin\Debug\mailpop3.exe
+D:\code\mailsrvTcp\mailpop3\bin\Debug\mailpop3.pdb
+D:\code\mailsrvTcp\mailpop3\obj\x86\Debug\mailpop3.exe
+D:\code\mailsrvTcp\mailpop3\obj\x86\Debug\mailpop3.pdb
+D:\code\mailsrvTcp\mailsrv\bin\Debug\mailpop3.exe
+D:\code\mailsrvTcp\mailsrv\bin\Debug\mailpop3.pdb
+D:\code\mailsrvTcp\mailpop3\obj\x86\Debug\mailpop3.csprojResolveAssemblyReference.cache
+C:\Users\user\code\mailsrvTcp\mailsrv\bin\Debug\mailpop3.exe
+C:\Users\user\code\mailsrvTcp\mailsrv\bin\Debug\mailpop3.pdb
+C:\Users\user\code\mailsrvTcp\mailpop3\obj\x86\Debug\mailpop3.csprojResolveAssemblyReference.cache
+C:\Users\user\code\mailsrvTcp\mailpop3\obj\x86\Debug\mailpop3.exe
+C:\Users\user\code\mailsrvTcp\mailpop3\obj\x86\Debug\mailpop3.pdb
+C:\Users\user\code\mailsrvTcp_git\mailsrv\bin\Debug\mailpop3.exe
+C:\Users\user\code\mailsrvTcp_git\mailsrv\bin\Debug\mailpop3.pdb
+C:\Users\user\code\mailsrvTcp_git\mailpop3\obj\x86\Debug\mailpop3.csprojResolveAssemblyReference.cache
+C:\Users\user\code\mailsrvTcp_git\mailpop3\obj\x86\Debug\mailpop3.exe
+C:\Users\user\code\mailsrvTcp_git\mailpop3\obj\x86\Debug\mailpop3.pdb
