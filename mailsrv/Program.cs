@@ -488,7 +488,7 @@ namespace mailsrv
             hc.currentMessage.dot = false;
             //hc.Send(Protocol.StrToByteArray("250 2.0.0 Message accepted for delivery\n"));
             
-            if (hc.currentMessage.getSize() > 2097152)
+            if (hc.currentMessage.getSize() > 4194304)
             {
                 hc.Write("501 data bigger then 2 mb !\r\n");
             }
