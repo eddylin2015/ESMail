@@ -429,7 +429,13 @@ namespace mailpop3
                     if (count == tosend)
                     {
                         hc.Write("+Ok " + m.getSize() + " octets\r\n");
-                        hc.Write(m.body);
+			int max_len=1048536;
+			if(m.body.Length<=max_len){
+			 hc.Write(m.body);
+			}else{
+                        hc.Write(m.body.SubString(0,max_len);
+			hc.Write(m.body.SubString(max_len,m.body.Length-max_len);	 
+			}
                         hc.Write(".\r\n");
                     }
                 }
